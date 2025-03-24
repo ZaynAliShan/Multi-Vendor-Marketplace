@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-24
+- Fix bug in checkout process
+
 ## 2025-03-23
 - Fix type errors
 
