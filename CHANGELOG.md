@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-25
+- Improve user experience
+
+## 2025-03-25
 - Improve function naming
 
 ## 2025-03-24
