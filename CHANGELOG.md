@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-25
+- Improve loading states
+
+## 2025-03-25
 - Improve user experience
 
 ## 2025-03-25
