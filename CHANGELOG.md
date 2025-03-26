@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-26
+- Update form validation
+
+## 2025-03-26
 - Improve UI responsiveness
 
 ## 2025-03-26
