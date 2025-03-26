@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-26
+- Improve type safety
+
 ## 2025-03-25
 - Improve loading states
 
