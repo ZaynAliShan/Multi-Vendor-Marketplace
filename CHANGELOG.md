@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-27
+- Fix type errors
+
 ## 2025-03-26
 - Update form validation
 
