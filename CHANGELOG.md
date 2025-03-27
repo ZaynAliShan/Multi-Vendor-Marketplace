@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-27
+- Update styles
+
+## 2025-03-27
 - Fix type errors
 
 ## 2025-03-26
