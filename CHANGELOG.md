@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-28
+- Update documentation
+
+## 2025-03-28
 - Fix authentication flow
 
 ## 2025-03-27
