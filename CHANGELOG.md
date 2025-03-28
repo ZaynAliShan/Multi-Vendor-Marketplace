@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-28
+- Fix authentication flow
+
 ## 2025-03-27
 - Update styles
 
