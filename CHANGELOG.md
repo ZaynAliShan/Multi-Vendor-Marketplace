@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-29
+- Improve UI responsiveness
+
 ## 2025-03-28
 - Update documentation
 
