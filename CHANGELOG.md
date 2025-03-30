@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-30
+- Fix component props
+
+## 2025-03-30
 - Update constants
 
 ## 2025-03-29
