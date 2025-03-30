@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-30
+- Fix type errors
+
+## 2025-03-30
 - Fix component props
 
 ## 2025-03-30
