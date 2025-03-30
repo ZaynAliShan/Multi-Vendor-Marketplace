@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-30
+- Update constants
+
 ## 2025-03-29
 - Improve user experience
 
