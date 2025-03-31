@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-03-31
+- Add error boundaries
+
 ## 2025-03-30
 - Fix type errors
 
