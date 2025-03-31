@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-03-31
+- Update error messages
+
+## 2025-03-31
 - Update documentation
 
 ## 2025-03-31
