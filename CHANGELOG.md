@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-01
+- Optimize performance
+
 ## 2025-03-31
 - Update error messages
 
