@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-02
+- Fix component props
+
+## 2025-04-02
 - Improve type safety
 
 ## 2025-04-02
