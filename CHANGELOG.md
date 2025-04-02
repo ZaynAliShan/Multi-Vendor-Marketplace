@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-02
+- Update constants
+
 ## 2025-04-01
 - Optimize performance
 
