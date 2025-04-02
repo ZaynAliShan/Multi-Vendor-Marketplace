@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-02
+- Improve function naming
+
+## 2025-04-02
 - Improve type safety
 
 ## 2025-04-02
