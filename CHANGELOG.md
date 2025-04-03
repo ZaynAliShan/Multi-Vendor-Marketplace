@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-03
+- Fix responsive design
+
+## 2025-04-03
 - Update dependencies
 
 ## 2025-04-02
