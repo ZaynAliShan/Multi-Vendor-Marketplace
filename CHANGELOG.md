@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-03
+- Update dependencies
+
 ## 2025-04-02
 - Improve function naming
 
