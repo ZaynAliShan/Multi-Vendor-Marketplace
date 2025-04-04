@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-04
+- Improve UI responsiveness
+
+## 2025-04-04
 - Optimize performance
 
 ## 2025-04-04
