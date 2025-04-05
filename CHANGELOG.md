@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-05
+- Improve UI responsiveness
+
 ## 2025-04-04
 - Fix import statements
 
