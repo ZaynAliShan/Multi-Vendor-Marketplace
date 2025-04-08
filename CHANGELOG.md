@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-08
+- Improve code comments
+
 ## 2025-04-07
 - Fix import statements
 
