@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-08
+- Update package scripts
+
+## 2025-04-08
 - Improve code comments
 
 ## 2025-04-07
