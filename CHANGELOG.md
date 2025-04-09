@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-09
+- Update translations
+
 ## 2025-04-08
 - Update package scripts
 
