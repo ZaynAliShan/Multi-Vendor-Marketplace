@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-09
+- Refactor service layer
+
+## 2025-04-09
 - Update translations
 
 ## 2025-04-08
