@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-10
+- Update configuration
+
+## 2025-04-10
 - Improve loading states
 
 ## 2025-04-10
