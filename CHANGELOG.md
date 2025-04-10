@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-10
+- Optimize performance
+
 ## 2025-04-09
 - Refactor service layer
 
