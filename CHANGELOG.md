@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-11
+- Update styles
+
+## 2025-04-11
 - Update component styling
 
 ## 2025-04-11
