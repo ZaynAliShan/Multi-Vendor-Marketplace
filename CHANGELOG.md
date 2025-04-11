@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-11
+- Add new feature
+
 ## 2025-04-10
 - Add error boundaries
 
