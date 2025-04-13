@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-13
+- Improve error handling
+
+## 2025-04-13
 - Fix navigation bug
 
 ## 2025-04-11
