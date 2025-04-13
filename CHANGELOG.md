@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-13
+- Fix navigation bug
+
 ## 2025-04-11
 - Improve code organization
 
