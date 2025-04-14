@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-14
+- Improve code comments
+
 ## 2025-04-13
 - Improve type safety
 
