@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-14
+- Refactor service layer
+
+## 2025-04-14
 - Improve code comments
 
 ## 2025-04-13
