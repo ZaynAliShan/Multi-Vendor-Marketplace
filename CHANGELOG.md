@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-14
+- Fix date formatting
+
+## 2025-04-14
 - Refactor service layer
 
 ## 2025-04-14
