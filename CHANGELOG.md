@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-15
+- Fix memory leak
+
+## 2025-04-15
 - Update README
 
 ## 2025-04-14
