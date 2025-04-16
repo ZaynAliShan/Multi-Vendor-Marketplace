@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-16
+- Update translations
+
 ## 2025-04-15
 - Improve type safety
 
