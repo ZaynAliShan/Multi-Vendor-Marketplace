@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-17
+- Improve loading states
+
 ## 2025-04-16
 - Update translations
 
