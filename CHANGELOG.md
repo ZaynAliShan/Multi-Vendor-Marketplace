@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-17
+- Add new utility functions
+
+## 2025-04-17
 - Improve loading states
 
 ## 2025-04-17
