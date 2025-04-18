@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-18
+- Fix authentication flow
+
+## 2025-04-18
 - Refactor service layer
 
 ## 2025-04-17
