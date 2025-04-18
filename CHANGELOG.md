@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-18
+- Refactor service layer
+
 ## 2025-04-17
 - Add new utility functions
 
