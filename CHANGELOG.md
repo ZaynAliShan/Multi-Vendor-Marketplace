@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-19
+- Fix security issue
+
 ## 2025-04-18
 - Fix responsive design
 
