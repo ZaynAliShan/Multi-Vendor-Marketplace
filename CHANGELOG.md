@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-19
+- Improve code organization
+
+## 2025-04-19
 - Fix security issue
 
 ## 2025-04-18
