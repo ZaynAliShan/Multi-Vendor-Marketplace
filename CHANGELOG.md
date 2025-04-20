@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-20
+- Fix date formatting
+
 ## 2025-04-19
 - Fix component props
 
