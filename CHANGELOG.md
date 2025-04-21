@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-21
+- Add new feature
+
 ## 2025-04-20
 - Fix date formatting
 
