@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-21
+- Fix responsive design
+
+## 2025-04-21
 - Add new feature
 
 ## 2025-04-20
