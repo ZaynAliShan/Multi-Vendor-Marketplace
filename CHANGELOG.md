@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-22
+- Fix type errors
+
 ## 2025-04-21
 - Fix responsive design
 
