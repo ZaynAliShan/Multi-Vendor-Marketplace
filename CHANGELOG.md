@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-22
+- Improve type safety
+
+## 2025-04-22
 - Add error boundaries
 
 ## 2025-04-22
