@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-22
+- Fix date formatting
+
+## 2025-04-22
 - Improve type safety
 
 ## 2025-04-22
