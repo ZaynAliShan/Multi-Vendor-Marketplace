@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-23
+- Improve code organization
+
 ## 2025-04-22
 - Update test cases
 
