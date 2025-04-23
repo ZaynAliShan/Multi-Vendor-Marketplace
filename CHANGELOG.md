@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-23
+- Update package scripts
+
+## 2025-04-23
 - Improve code organization
 
 ## 2025-04-22
