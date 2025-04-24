@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-24
+- Update API integration
+
 ## 2025-04-23
 - Update package scripts
 
