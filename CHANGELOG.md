@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-25
+- Update README
+
 ## 2025-04-24
 - Update API integration
 
