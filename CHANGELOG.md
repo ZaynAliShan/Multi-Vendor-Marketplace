@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-27
+- Improve loading states
+
 ## 2025-04-26
 - Update package scripts
 
