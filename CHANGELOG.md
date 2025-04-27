@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-04-27
+- Improve error handling
+
+## 2025-04-27
 - Improve loading states
 
 ## 2025-04-26
