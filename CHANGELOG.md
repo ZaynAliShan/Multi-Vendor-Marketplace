@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-28
+- Fix date formatting
+
 ## 2025-04-27
 - Improve error handling
 
