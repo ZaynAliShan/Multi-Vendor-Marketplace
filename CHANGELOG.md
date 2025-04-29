@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-04-29
+- Improve code organization
+
 ## 2025-04-28
 - Improve loading states
 
