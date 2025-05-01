@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-01
+- Update documentation
+
 ## 2025-04-29
 - Improve code organization
 
