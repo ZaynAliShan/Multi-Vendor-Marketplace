@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-01
+- Optimize performance
+
+## 2025-05-01
 - Update documentation
 
 ## 2025-04-29
