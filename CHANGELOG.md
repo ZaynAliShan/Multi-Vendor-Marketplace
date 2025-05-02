@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-02
+- Fix bug in checkout process
+
+## 2025-05-02
 - Improve UI responsiveness
 
 ## 2025-05-02
