@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-02
+- Improve accessibility
+
 ## 2025-05-01
 - Optimize performance
 
