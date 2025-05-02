@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-02
+- Improve UI responsiveness
+
+## 2025-05-02
 - Improve accessibility
 
 ## 2025-05-01
