@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-03
+- Fix bug in checkout process
+
+## 2025-05-03
 - Update constants
 
 ## 2025-05-02
