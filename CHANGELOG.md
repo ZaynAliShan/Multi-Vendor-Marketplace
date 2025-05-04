@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-04
+- Improve accessibility
+
 ## 2025-05-03
 - Fix bug in checkout process
 
