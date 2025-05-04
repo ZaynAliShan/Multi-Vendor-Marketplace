@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-04
+- Improve function naming
+
+## 2025-05-04
 - Improve accessibility
 
 ## 2025-05-03
