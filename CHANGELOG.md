@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-06
+- Improve error handling
+
 ## 2025-05-04
 - Improve UI responsiveness
 
