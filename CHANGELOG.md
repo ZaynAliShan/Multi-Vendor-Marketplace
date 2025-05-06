@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-06
+- Add new utility functions
+
+## 2025-05-06
 - Improve error handling
 
 ## 2025-05-04
