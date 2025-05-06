@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-06
+- Improve UI responsiveness
+
+## 2025-05-06
 - Add new utility functions
 
 ## 2025-05-06
