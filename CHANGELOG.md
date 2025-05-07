@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-07
+- Update package scripts
+
+## 2025-05-07
 - Update dependencies
 
 ## 2025-05-06
