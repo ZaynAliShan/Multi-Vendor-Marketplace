@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-07
+- Update dependencies
+
 ## 2025-05-06
 - Improve UI responsiveness
 
