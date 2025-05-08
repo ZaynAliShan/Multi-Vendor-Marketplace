@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-08
+- Improve code comments
+
+## 2025-05-08
 - Fix component props
 
 ## 2025-05-08
