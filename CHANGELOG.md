@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-08
+- Update constants
+
 ## 2025-05-07
 - Update package scripts
 
