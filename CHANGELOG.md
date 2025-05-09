@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-09
+- Update package scripts
+
+## 2025-05-09
 - Add error boundaries
 
 ## 2025-05-08
