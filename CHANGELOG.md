@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-09
+- Add error boundaries
+
 ## 2025-05-08
 - Fix responsive design
 
