@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-10
+- Optimize bundle size
+
+## 2025-05-10
 - Update translations
 
 ## 2025-05-10
