@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-10
+- Optimize performance
+
 ## 2025-05-09
 - Update package scripts
 
