@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-10
+- Update translations
+
+## 2025-05-10
 - Update constants
 
 ## 2025-05-10
