@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-12
+- Fix type errors
+
 ## 2025-05-10
 - Optimize bundle size
 
