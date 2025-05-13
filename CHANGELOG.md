@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-13
+- Fix navigation bug
+
+## 2025-05-13
 - Refactor service layer
 
 ## 2025-05-12
