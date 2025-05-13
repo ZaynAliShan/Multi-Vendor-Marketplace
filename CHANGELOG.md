@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-13
+- Refactor service layer
+
 ## 2025-05-12
 - Update form validation
 
