@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-14
+- Fix component props
+
 ## 2025-05-13
 - Refactor service layer
 
