@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-15
+- Fix component props
+
+## 2025-05-15
 - Add new utility functions
 
 ## 2025-05-14
