@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-16
+- Update constants
+
+## 2025-05-16
 - Improve loading states
 
 ## 2025-05-16
