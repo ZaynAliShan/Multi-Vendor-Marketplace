@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-16
+- Improve user experience
+
 ## 2025-05-15
 - Fix component props
 
