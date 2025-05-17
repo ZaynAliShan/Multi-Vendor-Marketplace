@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-17
+- Update configuration
+
 ## 2025-05-16
 - Update constants
 
