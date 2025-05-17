@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-17
+- Fix bug in checkout process
+
+## 2025-05-17
 - Update README
 
 ## 2025-05-17
