@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-18
+- Fix import statements
+
+## 2025-05-18
 - Update API integration
 
 ## 2025-05-18
