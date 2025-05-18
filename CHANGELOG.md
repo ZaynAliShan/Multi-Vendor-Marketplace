@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-18
+- Fix memory leak
+
 ## 2025-05-17
 - Fix bug in checkout process
 
