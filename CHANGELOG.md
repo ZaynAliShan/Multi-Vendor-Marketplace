@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-19
+- Improve function naming
+
 ## 2025-05-18
 - Fix import statements
 
