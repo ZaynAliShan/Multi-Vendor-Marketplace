@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-20
+- Improve code comments
+
+## 2025-05-20
 - Fix security issue
 
 ## 2025-05-19
