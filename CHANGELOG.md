@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-21
+- Update README
+
+## 2025-05-21
 - Add error boundaries
 
 ## 2025-05-20
