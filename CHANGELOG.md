@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-22
+- Update package scripts
+
 ## 2025-05-21
 - Update README
 
