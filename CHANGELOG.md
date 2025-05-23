@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-23
+- Add new feature
+
 ## 2025-05-22
 - Update package scripts
 
