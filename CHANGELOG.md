@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-24
+- Fix date formatting
+
 ## 2025-05-23
 - Update README
 
