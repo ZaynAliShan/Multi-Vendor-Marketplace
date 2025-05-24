@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-24
+- Fix security issue
+
+## 2025-05-24
 - Fix date formatting
 
 ## 2025-05-23
