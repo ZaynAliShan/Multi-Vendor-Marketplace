@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-26
+- Update dependencies
+
+## 2025-05-26
 - Improve loading states
 
 ## 2025-05-24
