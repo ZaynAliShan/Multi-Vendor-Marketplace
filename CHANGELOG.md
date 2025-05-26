@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-05-26
+- Optimize bundle size
+
+## 2025-05-26
 - Update dependencies
 
 ## 2025-05-26
