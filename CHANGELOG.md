@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-26
+- Improve loading states
+
 ## 2025-05-24
 - Fix security issue
 
