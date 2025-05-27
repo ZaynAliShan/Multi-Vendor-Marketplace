@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-27
+- Add new feature
+
 ## 2025-05-26
 - Optimize bundle size
 
