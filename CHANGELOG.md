@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-29
+- Add new utility functions
+
 ## 2025-05-27
 - Optimize bundle size
 
