@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-05-31
+- Improve user experience
+
 ## 2025-05-30
 - Improve UI responsiveness
 
