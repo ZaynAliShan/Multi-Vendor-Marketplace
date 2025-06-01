@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-01
+- Fix import statements
+
 ## 2025-05-31
 - Update component styling
 
