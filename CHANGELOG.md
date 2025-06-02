@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-02
+- Improve error handling
+
 ## 2025-06-01
 - Fix import statements
 
