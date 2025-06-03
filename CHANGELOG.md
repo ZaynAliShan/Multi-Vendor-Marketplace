@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-03
+- Update styles
+
+## 2025-06-03
 - Update translations
 
 ## 2025-06-02
