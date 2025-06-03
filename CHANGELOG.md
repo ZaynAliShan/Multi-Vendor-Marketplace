@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-03
+- Update translations
+
 ## 2025-06-02
 - Improve UI responsiveness
 
