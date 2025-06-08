@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-08
+- Update styles
+
 ## 2025-06-07
 - Improve function naming
 
