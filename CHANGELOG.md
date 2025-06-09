@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-09
+- Improve code organization
+
+## 2025-06-09
 - Improve code comments
 
 ## 2025-06-08
