@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-09
+- Improve code comments
+
 ## 2025-06-08
 - Update styles
 
