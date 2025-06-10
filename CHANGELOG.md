@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-10
+- Update documentation
+
 ## 2025-06-09
 - Fix responsive design
 
