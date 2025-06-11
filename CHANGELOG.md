@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-11
+- Fix navigation bug
+
+## 2025-06-11
 - Fix security issue
 
 ## 2025-06-11
