@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-11
+- Fix security issue
+
+## 2025-06-11
 - Optimize bundle size
 
 ## 2025-06-11
