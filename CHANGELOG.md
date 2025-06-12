@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-12
+- Fix responsive design
+
+## 2025-06-12
 - Fix bug in checkout process
 
 ## 2025-06-12
