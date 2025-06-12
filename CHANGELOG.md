@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-12
+- Update form validation
+
 ## 2025-06-11
 - Fix navigation bug
 
