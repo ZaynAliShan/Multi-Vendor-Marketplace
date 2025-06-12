@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-12
+- Fix component props
+
+## 2025-06-12
 - Update test cases
 
 ## 2025-06-12
