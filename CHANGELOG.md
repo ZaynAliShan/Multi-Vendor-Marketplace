@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-14
+- Fix date formatting
+
+## 2025-06-14
 - Optimize performance
 
 ## 2025-06-13
