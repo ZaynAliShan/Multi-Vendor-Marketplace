@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-14
+- Optimize performance
+
 ## 2025-06-13
 - Fix bug in checkout process
 
