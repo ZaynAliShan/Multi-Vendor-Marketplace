@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-15
+- Refactor service layer
+
+## 2025-06-15
 - Update dependencies
 
 ## 2025-06-14
