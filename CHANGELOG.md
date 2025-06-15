@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-15
+- Update dependencies
+
 ## 2025-06-14
 - Add error boundaries
 
