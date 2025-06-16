@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-16
+- Improve function naming
+
 ## 2025-06-15
 - Update form validation
 
