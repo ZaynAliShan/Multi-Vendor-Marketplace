@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-16
+- Update constants
+
+## 2025-06-16
 - Fix validation issues
 
 ## 2025-06-16
