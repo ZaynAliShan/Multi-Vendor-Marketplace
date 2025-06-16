@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-16
+- Fix validation issues
+
+## 2025-06-16
 - Improve function naming
 
 ## 2025-06-15
