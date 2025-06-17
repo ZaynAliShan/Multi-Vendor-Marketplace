@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-17
+- Update error messages
+
 ## 2025-06-16
 - Update constants
 
