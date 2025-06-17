@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-17
+- Fix validation issues
+
+## 2025-06-17
 - Update error messages
 
 ## 2025-06-16
