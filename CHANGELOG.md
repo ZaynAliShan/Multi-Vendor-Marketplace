@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-18
+- Fix responsive design
+
+## 2025-06-18
 - Fix validation issues
 
 ## 2025-06-18
