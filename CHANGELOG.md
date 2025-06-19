@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-19
+- Fix date formatting
+
 ## 2025-06-18
 - Fix responsive design
 
