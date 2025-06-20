@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-20
+- Update component styling
+
 ## 2025-06-19
 - Fix memory leak
 
