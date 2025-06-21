@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-21
+- Optimize bundle size
+
 ## 2025-06-20
 - Update component styling
 
