@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-22
+- Update API integration
+
 ## 2025-06-21
 - Optimize bundle size
 
