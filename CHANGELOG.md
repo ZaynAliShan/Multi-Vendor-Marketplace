@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-22
+- Add new utility functions
+
+## 2025-06-22
 - Update API integration
 
 ## 2025-06-21
