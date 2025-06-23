@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-23
+- Fix date formatting
+
 ## 2025-06-22
 - Add new utility functions
 
