@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-24
+- Fix routing issue
+
 ## 2025-06-23
 - Fix date formatting
 
