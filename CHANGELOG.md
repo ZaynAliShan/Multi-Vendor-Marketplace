@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-25
+- Update error messages
+
 ## 2025-06-24
 - Update styles
 
