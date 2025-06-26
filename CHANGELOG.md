@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-26
+- Improve code organization
+
+## 2025-06-26
 - Improve user experience
 
 ## 2025-06-25
