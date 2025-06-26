@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-26
+- Improve user experience
+
 ## 2025-06-25
 - Update form validation
 
