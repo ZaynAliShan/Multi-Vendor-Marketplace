@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-26
+- Fix memory leak
+
+## 2025-06-26
 - Improve code organization
 
 ## 2025-06-26
