@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-27
+- Update error messages
+
 ## 2025-06-26
 - Fix memory leak
 
