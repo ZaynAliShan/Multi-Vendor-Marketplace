@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-28
+- Improve code comments
+
+## 2025-06-28
 - Fix import statements
 
 ## 2025-06-27
