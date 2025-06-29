@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-06-29
+- Fix responsive design
+
 ## 2025-06-28
 - Improve code comments
 
