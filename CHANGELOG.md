@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-06-30
+- Improve error handling
+
+## 2025-06-30
 - Update API integration
 
 ## 2025-06-29
