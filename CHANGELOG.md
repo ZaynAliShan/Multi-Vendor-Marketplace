@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-07-01
+- Update test cases
+
+## 2025-07-01
 - Update component styling
 
 ## 2025-07-01
