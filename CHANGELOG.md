@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-01
+- Update form validation
+
 ## 2025-06-30
 - Improve error handling
 
