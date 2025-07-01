@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-07-01
+- Improve type safety
+
+## 2025-07-01
 - Update test cases
 
 ## 2025-07-01
