@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-02
+- Update configuration
+
 ## 2025-07-01
 - Update translations
 
