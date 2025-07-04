@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-07-04
+- Update test cases
+
+## 2025-07-04
 - Improve accessibility
 
 ## 2025-07-04
