@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-05
+- Update error messages
+
 ## 2025-07-04
 - Update test cases
 
