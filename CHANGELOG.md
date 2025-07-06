@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-06
+- Update configuration
+
 ## 2025-07-05
 - Update error messages
 
