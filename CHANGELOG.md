@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-07-08
+- Fix authentication flow
+
+## 2025-07-08
 - Fix validation issues
 
 ## 2025-07-07
