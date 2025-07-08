@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-08
+- Fix validation issues
+
 ## 2025-07-07
 - Update package scripts
 
