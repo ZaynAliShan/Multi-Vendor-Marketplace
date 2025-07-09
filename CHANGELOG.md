@@ -1,6 +1,9 @@
 # Changelog
 
 ## 2025-07-09
+- Fix authentication flow
+
+## 2025-07-09
 - Update test cases
 
 ## 2025-07-09
