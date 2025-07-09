@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-09
+- Fix authentication flow
+
 ## 2025-07-08
 - Update form validation
 
