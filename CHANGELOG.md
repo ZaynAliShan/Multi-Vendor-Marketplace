@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-11
+- Update configuration
+
 ## 2025-07-09
 - Fix authentication flow
 
