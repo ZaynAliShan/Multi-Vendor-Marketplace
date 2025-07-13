@@ -1,5 +1,8 @@
 # Changelog
 
+## 2025-07-13
+- Update styles
+
 ## 2025-07-12
 - Update configuration
 
