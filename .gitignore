@@ -60,3 +60,7 @@ aws-exports.js
 .secret-*
 **.sample
 #amplify-do-not-edit-end
+
+# Scripts for commit generation (not to be committed)
+generate_commits.ps1
+temp_*.txt
